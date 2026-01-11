@@ -1,5 +1,5 @@
 #Stone Paper Scissors Game(Java)
-This is a simple Stone PAper Scissors game written in Java.
+This is a simple Stone Paper Scissors game written in Java.
 ##Features:-
 - User vs Computer
 - Random computer choices
