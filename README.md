@@ -12,5 +12,5 @@ This is a simple Stone Paper Scissors game written in Java.
    - 1 for Paper
    - 2 for Scissors
 ## Author
-Anuj Sachin Shinde
+Anuj Shinde
    
